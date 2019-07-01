@@ -17,4 +17,4 @@ The primary motivation for this project was to complete a component of the Udaci
 - seattle_data_processing.ipynb - This is the Jupyter notebook containing my analysis.
 
 ## Summary of results
-You can go to the medium link posted to see the summary of the results.
+You can go to the [medium link](https://medium.com/@arijitbasu93/understanding-crisp-dm-by-analysis-seattle-airbnb-data-2295ca6f393a?postPublishedType=repub) posted to see the summary of the results.
